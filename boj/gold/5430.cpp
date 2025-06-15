@@ -25,6 +25,7 @@ int main() {
         int left = 0;
         int right = cnt - 1;
         vector<int> v;
+        v.reserve(cnt);
         string line;
         getline(cin, line);
         for (char &c: line)
