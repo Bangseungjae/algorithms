@@ -9,4 +9,5 @@ add_executable(algorithms main.cpp
         boj/bronze/test.cpp
         boj/silver/1181.cpp
         boj/silver/9461.cpp
-        boj/silver/20291.cpp)
+        boj/silver/20291.cpp
+        boj/gold/5430.cpp)
