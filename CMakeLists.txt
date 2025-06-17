@@ -13,4 +13,5 @@ add_executable(algorithms main.cpp
         boj/gold/5430.cpp
         data_structure/insertion_sort.cpp
         data_structure/insertion_sort.h
-        data_structure/insertion_sort.cpp)
+        data_structure/insertion_sort.cpp
+        leetcode/424.cpp)
