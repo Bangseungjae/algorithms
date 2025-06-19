@@ -16,4 +16,5 @@ add_executable(algorithms main.cpp
         data_structure/insertion_sort.cpp
         leetcode/424.cpp
         boj/silver/11279.cpp
-        boj/gold/7662.cpp)
+        boj/gold/7662.cpp
+        boj/silver/18111.cpp)
